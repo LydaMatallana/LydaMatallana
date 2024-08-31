@@ -3,11 +3,6 @@
 </div>
 
 <p align="center" width="50%">
-    <img width="15%" [![Linkedin Badge](https://img.shields.io/badge/-LydaM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/>
-</p>
-
-
-<p align="center" width="50%">
     <img width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
 </p>
 
