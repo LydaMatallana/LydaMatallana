@@ -7,9 +7,10 @@
     <img width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
 </p>
 
-##############################################[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=LydaMatallana.LydaMatallana&color=00cf00" alt=""/>
 
-
+  
 <!--
 **LydaMatallana/LydaMatallana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
