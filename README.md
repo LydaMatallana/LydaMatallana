@@ -2,7 +2,7 @@
   <img decoding="async" src="https://github.com/LydaMatallana/LydaMatallana/blob/main/banner%20git.png" width="800"/>
 </div>
 
-<p align="center" width="100%">
+<p align="center" width="50%">
     <img width="33%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
