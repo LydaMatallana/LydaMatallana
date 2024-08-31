@@ -25,7 +25,7 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
 ### :hammer_and_wrench: Herramientas :
 
 <div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/>
   </a>
