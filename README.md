@@ -19,6 +19,6 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
 - 🔭 Actualmente trabajo como Analista QA en una gran empresa del sector asegurador :muscle:
 - 🌱 Estoy estudiando :blue_book: y preparandome :computer: para mi certificación en ISQTB Foundation level 4.0 (CTFL)
 - :heartbeat: Me gusta poner en practica los conocimientos que he adquirido y aprender sobre nuevos temas relacionados con QA :muscle:
-- 📫 Me puedes encontrar en [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
+- 📫 Me puedes encontrar en [![Linkedin Badge](https://img.shields.io/badge/-LydaM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
 
 -->
