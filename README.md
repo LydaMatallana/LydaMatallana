@@ -10,13 +10,11 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: 
-
-"La tecnología es importante, pero lo único que realmente importa es qué hacemos con ella". (Muhammad Yunus)
+### :woman_technologist: "La tecnología es importante, pero lo único que realmente importa es qué hacemos con ella". (Muhammad Yunus)
 
 Sobre mí :
 
-Profesional en constante aprendizaje y crecimiento <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el mejoramiento continuo <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!--
 **LydaMatallana/LydaMatallana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
