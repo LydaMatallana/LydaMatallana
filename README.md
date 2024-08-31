@@ -21,4 +21,4 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
 - :heartbeat: Me gusta poner en practica los conocimientos que he adquirido y aprender sobre nuevos temas relacionados con QA :muscle:
 - 📫 Me puedes encontrar en [![Linkedin Badge](https://img.shields.io/badge/-LydaM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
 
--->
+
