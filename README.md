@@ -7,7 +7,7 @@
     <img width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
 </p>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
 
 <!--
 **LydaMatallana/LydaMatallana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
