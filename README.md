@@ -3,7 +3,7 @@
 </div>
 
 <p align="center" width="50%">
-    <img width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"(https://www.linkedin.com/in/noelianav/)>
+    <img width="15%" src="[](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)">
 </p>
 
 <!--
