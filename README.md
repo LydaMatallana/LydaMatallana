@@ -46,6 +46,4 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
 </div>
 
 ---
-<div id="badges" align="center">
-    <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=LydaMatallana.LydaMatallana&color=00cf00" alt=""/>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
