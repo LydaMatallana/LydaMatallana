@@ -35,8 +35,6 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
-  </a>
     <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
   </a>
    <img decoding="async" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android"/>
