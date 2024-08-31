@@ -2,7 +2,10 @@
   <img decoding="async" src="https://github.com/LydaMatallana/LydaMatallana/blob/main/banner%20git.png" width="800"/>
 </div>
 
-[![                                   ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
+<p align="center" width="100%">
+    <img width="33%" src="https://i.sstatic.net/RJj4x.png">
+</p>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
 
 
 <!--
