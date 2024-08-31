@@ -14,7 +14,7 @@
 
 Sobre mí :
 
-Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el mejoramiento continuo <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el mejoramiento continuo <img decoding="async" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4dWltYmYweTJ1b2lkMWI0MzRkZTUxNHEyb2Rxbm1yeTZ0M25vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/QBSPma5jP9ReSAdxKw/giphy.webp" width="30">
 
 <!--
 **LydaMatallana/LydaMatallana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
