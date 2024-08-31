@@ -12,7 +12,6 @@
 ### :woman_technologist: "La tecnología es importante, pero lo único que realmente importa es qué hacemos con ella". (Muhammad Yunus)
 
 Sobre mí :
-
 Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el mejoramiento continuo <img decoding="async" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4dWltYmYweTJ1b2lkMWI0MzRkZTUxNHEyb2Rxbm1yeTZ0M25vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/QBSPma5jP9ReSAdxKw/giphy.webp" width="30">
 
 - 🔭 Actualmente trabajo como Analista QA en una gran empresa del sector asegurador :muscle:
