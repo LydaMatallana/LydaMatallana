@@ -51,6 +51,3 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LydaMatallana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
