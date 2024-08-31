@@ -20,4 +20,18 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
 - :heartbeat: Me gusta poner en practica los conocimientos 📚 que he adquirido y aprender sobre nuevos temas relacionados con QA 👀
 - 📫 Me puedes encontrar en [![Linkedin Badge](https://img.shields.io/badge/-LydaM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lyda-constanza-matallana-pineda-89742a101/)
 
+---
 
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
