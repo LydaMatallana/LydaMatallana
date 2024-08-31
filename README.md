@@ -44,3 +44,7 @@ Profesional en constante aprendizaje y crecimiento, enfocada en la calidad y el 
     <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
 </div>
+
+---
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
